@@ -225,10 +225,7 @@ a {
   right: 0px;
   border-right: 1px solid #dddddd;
   border-bottom: 1px solid #dddddd;
-  background: #f9f9f9;
-}
-.calendar_default_cell_inner {
-  background: #fff;
+  background: #ffffff;
 }
 .calendar_default_message {
   opacity: 0.9;
